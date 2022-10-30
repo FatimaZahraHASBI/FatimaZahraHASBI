@@ -76,4 +76,8 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <br>
 
+## 📫 Get in touch
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fatima-zahra-hasbi-610430201/) [![Email](https://img.shields.io/badge/Email-c71610?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hasbi.fatimazahra04@gmail.com)
+
+
 </div>
