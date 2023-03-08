@@ -18,19 +18,19 @@
     <img src="https://upload.wikimedia.org/wikipedia/fr/thumb/2/2e/Java_Logo.svg/1200px-Java_Logo.svg.png" height=150 width=70/> 
   </a>
     <a href="https://spring.io/projects/spring-framework" target="_blank"> 
-      <img src="https://spring.io/images/projects/spring-framework-640ad1b04f7efa89e0f0f7353e6b5e02.svg?v=2" height=150 width=100 /> 
+      <img src="https://pluralsight2.imgix.net/paths/images/corespring-f9a00f4516.png" height=150 width=100 /> 
     </a>
     <a href="https://spring.io/projects/spring-boot" target="_blank"> 
-      <img src="https://spring.io/images/projects/spring-boot-7f2e24fb962501672cc91ccd285ed2ba.svg" height=150 width=100 /> 
+      <img src="https://user-images.githubusercontent.com/63150702/223663643-43666644-c453-41c9-b565-bdd4e6991ef2.png" height=110 width=100 /> 
     </a>
     <a href="https://spring.io/projects/spring-data" target="_blank"> 
-      <img src="https://spring.io/images/projects/spring-data-79cc203ed8c54191215a60f9e5dc638f.svg" height=110 width=100 />
+      <img src="https://cdn-0.huongdanjava.com/wp-content/uploads/2022/02/spring-data.png" height=110 width=100 />
     </a>
     <a href="https://spring.io/projects/spring-security" target="_blank"> 
-      <img src="https://spring.io/images/projects/spring-security-b712a4cdb778e72eb28b8c55ec39dbd1.svg" height=110 width=100 /> 
+      <img src="https://user-images.githubusercontent.com/63150702/223664443-1c0edc44-4cee-428f-8678-677af3d84700.png" height=110 width=100 /> 
     </a>
     <a href="https://spring.io/projects/spring-cloud" target="_blank"> 
-      <img src="https://spring.io/images/projects/spring-cloud-81fe04ab129ab99da0e7c7115bb09920.svg" height=150 width=100 /> 
+      <img src="https://avatars.githubusercontent.com/u/7815877?s=200&v=4" height=150 width=100 /> 
     </a>
 </p>
 
