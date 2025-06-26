@@ -21,9 +21,6 @@
     <a href="https://spring.io/projects/spring-boot" target="_blank"> 
       <img src="https://user-images.githubusercontent.com/63150702/223663643-43666644-c453-41c9-b565-bdd4e6991ef2.png" height=110 width=100 /> 
     </a>
-    <a href="https://spring.io/projects/spring-data" target="_blank"> 
-      <img src="https://cdn-0.huongdanjava.com/wp-content/uploads/2022/02/spring-data.png" height=110 width=100 />
-    </a>
     <a href="https://spring.io/projects/spring-security" target="_blank"> 
       <img src="https://user-images.githubusercontent.com/63150702/223664443-1c0edc44-4cee-428f-8678-677af3d84700.png" height=110 width=100 /> 
     </a>
@@ -31,6 +28,20 @@
       <img src="https://avatars.githubusercontent.com/u/7815877?s=200&v=4" height=150 width=100 /> 
     </a>
 </p>
+
+### 🔹Frontend :ㅤ
+<a href="https://react.dev" target="_blank"> 
+  <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" height=150 width=100/> 
+</a>
+<a href="https://redux.js.org" target="_blank"> 
+  <img src="https://raw.githubusercontent.com/reactjs/redux/master/logo/logo.png" height=150 width=100 /> 
+</a>
+<a href="https://developer.mozilla.org/fr/docs/Web/HTML" target="_blank"> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/500px-HTML5_logo_and_wordmark.svg.png" height=150 width=100 /> 
+</a>
+<a href="https://developer.mozilla.org/fr/docs/Web/CSS" target="_blank"> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" height=150 width=100 /> 
+</a>
 
 ### 🔹Databases:ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
 <p style="padding:10px;"> 
