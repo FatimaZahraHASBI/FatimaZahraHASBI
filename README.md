@@ -8,8 +8,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <br>
   
-# [Visit my portfolio](https://portfolio-hasbi.vercel.app)
-<br>
 # 🔥 Skills 🔥
 
 ### 🔹Backend :ㅤ
@@ -44,13 +42,6 @@
 <p style="padding:10px;"> 
     <a style="padding-right:8px;" href="https://www.techno-science.net/glossaire-definition/Merise-informatique.html" target="_blank"> <img src="https://louisvandevelde.be/image/merise.png" height=150 width=170 /> </a>
     <a style="padding-right:8px;" href="https://fr.wikipedia.org/wiki/UML_(informatique)" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/UML_logo.svg/2560px-UML_logo.svg.png" height=150 width=200 /> </a>
-</p>
-
-### 🔹Mobile Developement:ㅤㅤㅤㅤㅤㅤㅤㅤ
-<p style="padding:10px;"> 
-    <a style="padding-right:8px;" href="https://flutter.dev" target="_blank"> <img src="https://www.ideematic.com/wp-content/uploads/2020/07/flutter_logo.png" height=110 width=150 /> </a>
-    <a style="padding-right:8px;" href="https://www.mobindustry.net/blog/how-to-implement-the-bloc-architecture-in-flutter-benefits-and-best-practices/#:~:text=Flutter%20BLoC%20pattern%20(Business%20Logic,at%20Google%20I%2FO%202019." target="_blank"> <img src="https://raw.githubusercontent.com/felangel/bloc/master/docs/assets/bloc_logo_full.png" height=100 width=160 /> </a>
-    <a style="padding-right:8px;" href="https://dart.dev" target="_blank"> <img src="https://dart.dev/assets/shared/dart-logo-for-shares.png?2" height=120 width=170 /> </a>
 </p>
 
 ### 🔹Software engineering good practices:ㅤㅤㅤㅤㅤㅤㅤㅤ
