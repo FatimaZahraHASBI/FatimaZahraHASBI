@@ -55,12 +55,6 @@
     <a style="padding-right:8px;" href="https://fr.wikipedia.org/wiki/UML_(informatique)" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/UML_logo.svg/2560px-UML_logo.svg.png" height=150 width=200 /> </a>
 </p>
 
-### 🔹Software engineering good practices:ㅤㅤㅤㅤㅤㅤㅤㅤ
-<p style="padding:10px;"> 
-    <a style="padding-right:8px;" href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwi9ov-ntIj7AhUT14UKHUC3BrQQFnoECA4QAw&url=https%3A%2F%2Fcloud.google.com%2Flearn%2Fwhat-is-microservices-architecture%3Fhl%3Dfr%23%3A~%3Atext%3DL%27architecture%2520de%2520microservices%2520(ou%2C%25C3%25A9l%25C3%25A9ment%2520ayant%2520ses%2520propres%2520responsabilit%25C3%25A9s.&usg=AOvVaw1p8BMKY3D9YvXSGai-tRuG" target="_blank"> <img src="https://www.hebergeurcloud.com/wp-content/uploads/2018/05/1-aVq0q9jjFx1R8DMVhKKFWQ.png" height=150 width=170 /> </a>
-    <a style="padding-right:8px;" href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjnjajMtIj7AhWKzYUKHTixDrYQFnoECA4QAQ&url=https%3A%2F%2Ffr.wikipedia.org%2Fwiki%2FPatron_de_conception&usg=AOvVaw28s4ahSoeevV87DiUSyp1x" target="_blank"> <img src="https://jtmmartins.github.io/2017/11/25/Patterns/designpatterns.jpg" height=150 width=180 /> </a>
-</p>
-
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <br>
